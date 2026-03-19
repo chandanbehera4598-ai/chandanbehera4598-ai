@@ -16,7 +16,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-behera-86198139b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-behera-86198139b" height="30" width="40" /></a>
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/chandan-behera-86198139b" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+<a href="mailto:chandanbehera4598@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
