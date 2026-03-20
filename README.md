@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="coding image" width="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanbehera4598-ai&label=Profile%20views&color=0e75b6&style=flat" alt="chandanbehera4598-ai" /> </p>
+ <img  align="right" src="https://komarev.com/ghpvc/?username=chandanbehera4598-ai&label=Profile%20views&color=0e75b6&style=flat" alt="chandanbehera4598-ai" /> 
 
 - 🌱 I’m currently learning **Currently learning Java Full Stack (Spring Boot, React) 🚀**
 
