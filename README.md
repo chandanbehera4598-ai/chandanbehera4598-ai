@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Chandan Behera  
+# 👋 Hi, I'm Chandan Behera
 
 <p align="center">
-  <img src="https://github.com/chandanbehera4598-ai/chandanbehera4598-ai/blob/main/my_git_img.png" width="250" style="border-radius:50%" />
+  <img src="https://github.com/chandan-dev-jpg/chandan-dev-jpg/blob/main/my_git_img.png" width="250" style="border-radius:50%" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | Java | Spring Boot | React</h3>
+<h3 align="center">💻 Java Full Stack Developer | Spring Boot | React</h3>
 
 <p align="center">
 🚀 Passionate about building scalable web applications <br>
@@ -13,16 +13,16 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-- 🌱 Currently learning **Java Full Stack (Spring Boot + React)**  
-- 👨‍💻 Building real-world projects  
-- 📫 Reach me at: **chandanbehera4598@gmail.com**  
-- ⚡ Fun fact: I love coding & solving problems 😄  
+* 🌱 Currently learning **Java Full Stack (Spring Boot + React)**
+* 👨‍💻 Building real-world projects
+* 📫 Reach me at: **[chandanbehera4598@gmail.com](mailto:chandanbehera4598@gmail.com)**
+* ⚡ Fun fact: I love coding & solving problems 😄
 
 ---
 
-## 💻 Coding Life  
+## 💻 Coding Life
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" width="300" />
@@ -30,40 +30,41 @@
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-dev-jpg&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,postgresql,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-- 🔐 Biometric System  
-- 🐍 Snake Game  
-- 🧮 Calculator App  
-- 🌐 Portfolio Website  
+* 🔐 Biometric System
+* 🐍 Snake Game
+* 🧮 Calculator App
+* 🌐 Portfolio Website
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanbehera4598-ai&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-jpg&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-jpg&theme=highcontrast&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="180"/>
 </p>
 
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanbehera4598-ai&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-dev-jpg&theme=react-dark&area=true&hide_border=true"/>
 </p>
-
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandan-behera-86198139b">
@@ -82,10 +83,10 @@
 
 ---
 
-## 👀 Profile Views  
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanbehera4598-ai&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=chandan-dev-jpg&label=Profile%20views&color=0e75b6&style=flat&base=5000" />
 </p>
 
 ---
