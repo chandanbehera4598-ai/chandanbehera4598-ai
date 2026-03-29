@@ -31,10 +31,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,postgresql,git,github,vscode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-dev-jpg&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
 </p>
+
 
 ---
 
