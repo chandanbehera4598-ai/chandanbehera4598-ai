@@ -50,7 +50,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-jpg&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-jpg&show_icons=true&theme=radical&hide_border=true" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-jpg&theme=tokyonight&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="180"/>
 </p>
 
